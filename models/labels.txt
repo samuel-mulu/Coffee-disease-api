@@ -1,0 +1,3 @@
+brown_spot
+healthy
+rust
